@@ -4,4 +4,4 @@ Projects from undergrad, grad school that have been pulled from old files and pu
 Projects included:
 * Strandbeest Simulator
 * Bug 2 Algorithm with ROS
-* (To be added) Truss Stabililty Analyzer
+* Truss Stabililty Analyzer
